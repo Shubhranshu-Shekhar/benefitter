@@ -17,6 +17,6 @@ http://www.cs.ucr.edu/~eamonn/time_series_data/ and copy it to `data/ucr` while 
 
 To run the code, use the following command:
 
-python keras_clssification/benefit_predictor.py --data_path "datasets/ucr"  --dataset_name <name> --epochs 1
+python keras_clssification/benefit_predictor.py --data_path "datasets/ucr"  --dataset_name [name] --epochs 1
 
-here <name> = ucr_dataset_name e.g. ECG200.
+here [name] = ucr_dataset_name e.g. ECG200.
